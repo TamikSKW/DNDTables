@@ -1,0 +1,25 @@
+{
+    "name": "Dungeon Goals",
+    "table":[
+        { "dice": 1, "result": "Stop the dungeon's monstrous inhabitants from raiding the surface world"},
+        { "dice": 2, "result": "Foil a villain's evil scheme"},
+        { "dice": 3, "result": "Destroy a magical threat inside the dungeon"},
+        { "dice": 4, "result": "Acquire treasure"},
+        { "dice": 5, "result": "Find a particular item for a specific purpose"},
+        { "dice": 6, "result": "Retrieve a stolen item hidden in the dungeon"},
+        { "dice": 7, "result": "Find information needed for a special purpose"},
+        { "dice": 8, "result": "Rescure a captive"},
+        { "dice": 9, "result": "Discover the fate of a previous adventuring party"},
+        { "dice": 10, "result": "Find an NPC who disappeared in the area"},
+        { "dice": 11, "result": "Slay a dragon or some other challenging monster"},
+        { "dice": 12, "result": "Discover the nature and origin of a strange location or phenomemnon"},
+        { "dice": 13, "result": "Pursue fleeing foes taking refuge in the dungeon"},
+        { "dice": 14, "result": "Escape from captivity in the dungeon"},
+        { "dice": 15, "result": "Clear a ruin so it can be rebuilt and reoccupied"},
+        { "dice": 16, "result": "Discover why a villain is interested in the dungeon"},
+        { "dice": 17, "result": "Win a bet or complete a rite of passage by surviving in the dungeon for a certain ammount of time"},
+        { "dice": 18, "result": "Parley with a villain in the dungeon"},
+        { "dice": 19, "result": "Hide from a threat outside the dungeon"},
+        { "dice": 20, "result": "Roll twice, ignoring the results of a 20"}
+    ]
+}
